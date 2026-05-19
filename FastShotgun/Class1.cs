@@ -5,8 +5,14 @@ using HarmonyLib;
 [BepInPlugin("me.fastshotgun", "Fast Shotgun", "1.0")]
 public class Plugin : BaseUnityPlugin
 {
+    public static ConfigEntry<bool> FastShotgunEnabled;
     void Awake()
     {
+        FastShotgunEnabled=Config.Bind(
+            "General", 
+            "Enabled", true, 
+            "Whether the mod is enabled or not."
+        );
         Logger.LogInfo("Mod loaded!");
         var harmony = new Harmony("me.fastshotgun");
         harmony.PatchAll();
