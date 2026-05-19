@@ -1,0 +1,6 @@
+/workspaces/SomeUltrakillMod/FastShotgun/obj/Debug/net472/FastShotgun.csproj.AssemblyReference.cache
+/workspaces/SomeUltrakillMod/FastShotgun/obj/Debug/net472/FastShotgun.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/SomeUltrakillMod/FastShotgun/obj/Debug/net472/FastShotgun.AssemblyInfoInputs.cache
+/workspaces/SomeUltrakillMod/FastShotgun/obj/Debug/net472/FastShotgun.AssemblyInfo.cs
+/workspaces/SomeUltrakillMod/FastShotgun/obj/Debug/net472/FastShotgun.csproj.CoreCompileInputs.cache
+/workspaces/SomeUltrakillMod/FastShotgun/obj/Debug/net472/FastShotgun.sourcelink.json
